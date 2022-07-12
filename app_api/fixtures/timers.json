@@ -1,0 +1,47 @@
+[
+    {
+        "model": "app_api.timer",
+        "pk": 1,
+        "fields": {
+            "aLength": 20,
+            "bLength": 5
+        }
+    },
+
+    {
+        "model": "app_api.timer",
+        "pk": 2,
+        "fields": {
+            "aLength": 40,
+            "bLength": 5
+        }
+    },
+
+    {
+        "model": "app_api.timer",
+        "pk": 3,
+        "fields": {
+            "aLength": 50,
+            "bLength": 10
+        }
+    },
+
+    {
+        "model": "app_api.timer",
+        "pk": 4,
+        "fields": {
+            "aLength": 60,
+            "bLength": 5
+        }
+    },
+
+    {
+        "model": "app_api.timer",
+        "pk": 5,
+        "fields": {
+            "aLength": 60,
+            "bLength": 15
+        }
+    }
+    
+]
